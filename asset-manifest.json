@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.927d19b2.css",
+    "main.js": "/static/js/main.d4843508.js",
+    "static/media/hero-man.png": "/static/media/hero-man.949d4c4a381d387df684.png",
+    "static/media/instagram.svg": "/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/sisco.svg": "/static/media/sisco.c04073a4ddf296f55fac5d57cef35004.svg",
+    "static/media/telegram.svg": "/static/media/telegram.3295c7bd9bf1124c19a978b2c44e09c8.svg",
+    "static/media/telephone.svg": "/static/media/telephone.04d94be4d7ad7589adf3b846b901ecf7.svg",
+    "static/media/docker.svg": "/static/media/docker.402471a8309d58457b2412d97000f7cb.svg",
+    "static/media/email.svg": "/static/media/email.39f4b568701fded25cc4a9f003f84eb3.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.c341cc1c307221b0fe42599c619ceeaf.svg",
+    "index.html": "/index.html",
+    "static/media/up-arrow.svg": "/static/media/up-arrow.4cb9800ad06fba83fd5f92971791f273.svg",
+    "static/media/down-arrow.svg": "/static/media/down-arrow.6eccf2bec676ce7efbe9fd849d8b8425.svg",
+    "main.927d19b2.css.map": "/static/css/main.927d19b2.css.map",
+    "main.d4843508.js.map": "/static/js/main.d4843508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927d19b2.css",
+    "static/js/main.d4843508.js"
+  ]
+}
